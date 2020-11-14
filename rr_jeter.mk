@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/revengeos/config/common.mk)
 
 # Device identifier. This must come after all inclusions.
-PRODUCT_NAME := revengeos_jeter
+PRODUCT_NAME := rr_jeter
 PRODUCT_DEVICE := jeter
 PRODUCT_BRAND := motorola
 PRODUCT_MODEL := moto g(6) play
