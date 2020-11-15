@@ -1,6 +1,6 @@
 Copyright (C) 2019 The LineageOS Project
 
-Unified device configuration for Moto G6 Play (Al/Jeter)
+Device Configuration for Moto G6 Play (Al/Jeter)
 ==================================================
 
 The Motorola Moto G6 Play (codenamed _"al/jeter"_) is a low range smartphone from Motorola mobility.
@@ -9,7 +9,7 @@ The Motorola Moto G6 Play (codenamed _"al/jeter"_) is a low range smartphone fro
 
 | Product Name | jeter                                            | aljeter                                         |
 | -----------: | :----------------------------------------------  | :---------------------------------------------- |
-| SoC          | Qualcomm MSM8920 Snapdragon 427                  | Qualcomm MSM8937 Snapdragon 430                 |
+| SoC          | Qualcomm MSM8937 Snapdragon 427                  | Qualcomm MSM8937 Snapdragon 430                 |
 | CPU          | Quad-core 1.4 GHz Cortex-A53                     | Octa-core (4x1.4 GHz Cortex-A53 & 4x 1.1 GHz Cortex-A53)  |
 | GPU          | Adreno 308                                       | Adreno 505                                      |
 | Memory       | 2/3 GB RAM                                       | 3 GB RAM                                        |
